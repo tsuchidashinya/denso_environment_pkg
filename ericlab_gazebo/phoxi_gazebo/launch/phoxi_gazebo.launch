@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<launch>
+    
+    <arg name="model" value="$(find phoxi_gazebo)/urdf/phoxi_camera_pointcloud_zero.urdf.gazebo.xacro"/>
+    <arg name="object_name" default="HV8"/>
+    <param name="robot_description" command="$(find xacro)/xacro --inorder $(arg model)"/>
+    
+    <include file="$(find gazebo_ros)/launch/empty_world.launch">
+        <arg name="world_name" value="$(find phoxi_gazebo)/world/denso_box_HV8.world"/>
+    </include>
+    
+    <node pkg="gazebo_ros" type="spawn_model" name="spawn_model" output="screen" args="-param robot_description -urdf -model phoxi_camera -z 1" />
+    <arg name="pi" default="3.141592"/>
+    
+    <arg name="use_sensor_type" default="phoxi_camera"/>
+    <arg name="gui" default="true"/>
+    <param name="use_gui" value="$(arg gui)"/>
+    
+    <node name="rviz" pkg="rviz" type="rviz" args="-d $(find setup_simulator)/rviz/denso.rviz" required="true" />
+    
+    <node name="robot_state_publisher" pkg="robot_state_publisher" type="robot_state_publisher" respawn="false" output="screen" />
+
+    <node pkg="gazebo_model_package" type="gazebo_tf_publisher" name="gazebo_tf_publisher">
+        <rosparam file="$(find gazebo_model_package)/config/gazebo_tf_publisher.yaml" command="load" />
+    </node>
+    
+</launch>
+    
