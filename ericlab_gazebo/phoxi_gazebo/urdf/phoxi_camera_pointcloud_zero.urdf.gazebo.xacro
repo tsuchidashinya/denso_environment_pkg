@@ -22,7 +22,7 @@
   <xacro:arg name="roll" default="0" />
 
   <xacro:arg name="pitch" default="+${M_PI/2}" />
-
+  <!-- <xacro:arg name="pitch" default="0" /> -->
   <xacro:arg name="yaw" default="0" />
 
   <link name="$(arg sensor_parent_frame)"/>
