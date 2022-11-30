@@ -23,6 +23,9 @@
     <node pkg="gazebo_model_package" type="gazebo_tf_publisher" name="gazebo_tf_publisher">
         <rosparam file="$(find gazebo_model_package)/config/gazebo_tf_publisher.yaml" command="load" />
     </node>
+    <node pkg="tf_package" type="tf_broadcast_server" name="tf_broadcast_server">
+        <rosparam file="$(find tf_package)/config/tf_broadcast_server.yaml" command="load" ns="" />
+    </node>
     
 </launch>
     
