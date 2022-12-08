@@ -10,7 +10,7 @@
    
     <param name="robot_description" type="str" command="$(find xacro)/xacro --inorder $(arg sensor_model) sensor_parent_frame:=$(arg sensor_parent_frame) " />
     <node name="robot_state_publisher" pkg="robot_state_publisher" type="robot_state_publisher" respawn="false" output="screen" />
-    <node pkg="tf_package" type="tf_broadcast_server" name="tf_broadcast_server" output="screen">
+    <!-- <node pkg="tf_package" type="tf_broadcast_server" name="tf_broadcast_server" output="screen">
         <rosparam file="$(find tf_package)/config/tf_broadcast_server.yaml" command="load" ns="" />
-    </node>
+    </node> -->
 </launch>
