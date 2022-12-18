@@ -18,14 +18,14 @@
             <collision name="collr">
                 <geometry>
                     <mesh>
-                        <uri>model://HV6/meshes/HV6_1.stl</uri>
+                        <uri>model://HV6_bara/meshes/HV6_1.stl</uri>
                     </mesh>
                 </geometry>
             </collision>
             <visual name="visual">
                 <geometry>
                     <mesh>
-                        <uri>model://HV6/meshes/HV6_1.stl</uri>
+                        <uri>model://HV6_bara/meshes/HV6_1.stl</uri>
                     </mesh>   
                 </geometry>
             </visual>
