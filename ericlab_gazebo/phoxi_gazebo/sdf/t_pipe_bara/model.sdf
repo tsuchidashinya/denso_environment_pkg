@@ -18,14 +18,14 @@
             <collision name="collishin">
                 <geometry>
                     <mesh>
-                        <uri>model://t_pipe/meshes/t_pipe_1.stl</uri>
+                        <uri>model://t_pipe_bara/meshes/t_pipe_1.stl</uri>
                     </mesh>
                 </geometry>
             </collision>
             <visual name="visual">
                 <geometry>
                     <mesh>
-                        <uri>model://t_pipe/meshes/t_pipe_1.stl</uri>
+                        <uri>model://t_pipe_bara/meshes/t_pipe_1.stl</uri>
                     </mesh>
                 </geometry>
             </visual>
