@@ -9,8 +9,8 @@
         <material>Gazebo/Green</material>
         <visual>
             <plugin name="screen_video_controller" filename="libgazebo_ros_video.so">
-              <height>600</height>
-              <width>1024</width>
+              <height>2064</height>
+              <width>1544</width>
               <topicName>/display_object_topic</topicName>
               <robotNamespace>display_object</robotNamespace>
             </plugin>
