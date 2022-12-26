@@ -2757,7 +2757,7 @@
         <collision name='collr'>
           <geometry>
             <mesh>
-              <uri>model://HV6/meshes/HV6_1.stl</uri>
+              <uri>model://HV6_bara/meshes/HV6_1.stl</uri>
             </mesh>
           </geometry>
           <max_contacts>10</max_contacts>
@@ -2777,7 +2777,7 @@
         <visual name='visual'>
           <geometry>
             <mesh>
-              <uri>model://HV6/meshes/HV6_1.stl</uri>
+              <uri>model://HV6_bara/meshes/HV6_1.stl</uri>
             </mesh>
           </geometry>
         </visual>
@@ -2805,7 +2805,7 @@
         <collision name='collr'>
           <geometry>
             <mesh>
-              <uri>model://HV6/meshes/HV6_1.stl</uri>
+              <uri>model://HV6_bara/meshes/HV6_1.stl</uri>
             </mesh>
           </geometry>
           <max_contacts>10</max_contacts>
@@ -2825,7 +2825,7 @@
         <visual name='visual'>
           <geometry>
             <mesh>
-              <uri>model://HV6/meshes/HV6_1.stl</uri>
+              <uri>model://HV6_bara/meshes/HV6_1.stl</uri>
             </mesh>
           </geometry>
         </visual>
@@ -2853,7 +2853,7 @@
         <collision name='collr'>
           <geometry>
             <mesh>
-              <uri>model://HV6/meshes/HV6_1.stl</uri>
+              <uri>model://HV6_bara/meshes/HV6_1.stl</uri>
             </mesh>
           </geometry>
           <max_contacts>10</max_contacts>
@@ -2873,7 +2873,7 @@
         <visual name='visual'>
           <geometry>
             <mesh>
-              <uri>model://HV6/meshes/HV6_1.stl</uri>
+              <uri>model://HV6_bara/meshes/HV6_1.stl</uri>
             </mesh>
           </geometry>
         </visual>
@@ -2901,7 +2901,7 @@
         <collision name='collr'>
           <geometry>
             <mesh>
-              <uri>model://HV6/meshes/HV6_1.stl</uri>
+              <uri>model://HV6_bara/meshes/HV6_1.stl</uri>
             </mesh>
           </geometry>
           <max_contacts>10</max_contacts>
@@ -2921,7 +2921,7 @@
         <visual name='visual'>
           <geometry>
             <mesh>
-              <uri>model://HV6/meshes/HV6_1.stl</uri>
+              <uri>model://HV6_bara/meshes/HV6_1.stl</uri>
             </mesh>
           </geometry>
         </visual>
@@ -2949,7 +2949,7 @@
         <collision name='collr'>
           <geometry>
             <mesh>
-              <uri>model://HV6/meshes/HV6_1.stl</uri>
+              <uri>model://HV6_bara/meshes/HV6_1.stl</uri>
             </mesh>
           </geometry>
           <max_contacts>10</max_contacts>
@@ -2969,7 +2969,7 @@
         <visual name='visual'>
           <geometry>
             <mesh>
-              <uri>model://HV6/meshes/HV6_1.stl</uri>
+              <uri>model://HV6_bara/meshes/HV6_1.stl</uri>
             </mesh>
           </geometry>
         </visual>
@@ -2997,7 +2997,7 @@
         <collision name='collr'>
           <geometry>
             <mesh>
-              <uri>model://HV6/meshes/HV6_1.stl</uri>
+              <uri>model://HV6_bara/meshes/HV6_1.stl</uri>
             </mesh>
           </geometry>
           <max_contacts>10</max_contacts>
@@ -3017,7 +3017,7 @@
         <visual name='visual'>
           <geometry>
             <mesh>
-              <uri>model://HV6/meshes/HV6_1.stl</uri>
+              <uri>model://HV6_bara/meshes/HV6_1.stl</uri>
             </mesh>
           </geometry>
         </visual>
@@ -3045,7 +3045,7 @@
         <collision name='collishin'>
           <geometry>
             <mesh>
-              <uri>model://t_pipe/meshes/t_pipe_1.stl</uri>
+              <uri>model://t_pipe_bara/meshes/t_pipe_1.stl</uri>
             </mesh>
           </geometry>
           <max_contacts>10</max_contacts>
@@ -3065,7 +3065,7 @@
         <visual name='visual'>
           <geometry>
             <mesh>
-              <uri>model://t_pipe/meshes/t_pipe_1.stl</uri>
+              <uri>model://t_pipe_bara/meshes/t_pipe_1.stl</uri>
             </mesh>
           </geometry>
         </visual>
@@ -3093,7 +3093,7 @@
         <collision name='collishin'>
           <geometry>
             <mesh>
-              <uri>model://t_pipe/meshes/t_pipe_1.stl</uri>
+              <uri>model://t_pipe_bara/meshes/t_pipe_1.stl</uri>
             </mesh>
           </geometry>
           <max_contacts>10</max_contacts>
@@ -3113,7 +3113,7 @@
         <visual name='visual'>
           <geometry>
             <mesh>
-              <uri>model://t_pipe/meshes/t_pipe_1.stl</uri>
+              <uri>model://t_pipe_bara/meshes/t_pipe_1.stl</uri>
             </mesh>
           </geometry>
         </visual>
@@ -3141,7 +3141,7 @@
         <collision name='collishin'>
           <geometry>
             <mesh>
-              <uri>model://t_pipe/meshes/t_pipe_1.stl</uri>
+              <uri>model://t_pipe_bara/meshes/t_pipe_1.stl</uri>
             </mesh>
           </geometry>
           <max_contacts>10</max_contacts>
@@ -3161,7 +3161,7 @@
         <visual name='visual'>
           <geometry>
             <mesh>
-              <uri>model://t_pipe/meshes/t_pipe_1.stl</uri>
+              <uri>model://t_pipe_bara/meshes/t_pipe_1.stl</uri>
             </mesh>
           </geometry>
         </visual>
@@ -3189,7 +3189,7 @@
         <collision name='collishin'>
           <geometry>
             <mesh>
-              <uri>model://t_pipe/meshes/t_pipe_1.stl</uri>
+              <uri>model://t_pipe_bara/meshes/t_pipe_1.stl</uri>
             </mesh>
           </geometry>
           <max_contacts>10</max_contacts>
@@ -3209,7 +3209,7 @@
         <visual name='visual'>
           <geometry>
             <mesh>
-              <uri>model://t_pipe/meshes/t_pipe_1.stl</uri>
+              <uri>model://t_pipe_bara/meshes/t_pipe_1.stl</uri>
             </mesh>
           </geometry>
         </visual>
@@ -3237,7 +3237,7 @@
         <collision name='collishin'>
           <geometry>
             <mesh>
-              <uri>model://t_pipe/meshes/t_pipe_1.stl</uri>
+              <uri>model://t_pipe_bara/meshes/t_pipe_1.stl</uri>
             </mesh>
           </geometry>
           <max_contacts>10</max_contacts>
@@ -3257,7 +3257,7 @@
         <visual name='visual'>
           <geometry>
             <mesh>
-              <uri>model://t_pipe/meshes/t_pipe_1.stl</uri>
+              <uri>model://t_pipe_bara/meshes/t_pipe_1.stl</uri>
             </mesh>
           </geometry>
         </visual>
@@ -3285,7 +3285,7 @@
         <collision name='collishin'>
           <geometry>
             <mesh>
-              <uri>model://t_pipe/meshes/t_pipe_1.stl</uri>
+              <uri>model://t_pipe_bara/meshes/t_pipe_1.stl</uri>
             </mesh>
           </geometry>
           <max_contacts>10</max_contacts>
@@ -3305,7 +3305,7 @@
         <visual name='visual'>
           <geometry>
             <mesh>
-              <uri>model://t_pipe/meshes/t_pipe_1.stl</uri>
+              <uri>model://t_pipe_bara/meshes/t_pipe_1.stl</uri>
             </mesh>
           </geometry>
         </visual>
@@ -3621,7 +3621,7 @@
         <collision name='collishin'>
           <geometry>
             <mesh>
-              <uri>model://t_pipe/meshes/t_pipe_1.stl</uri>
+              <uri>model://t_pipe_bara/meshes/t_pipe_1.stl</uri>
             </mesh>
           </geometry>
           <max_contacts>10</max_contacts>
@@ -3641,7 +3641,7 @@
         <visual name='visual'>
           <geometry>
             <mesh>
-              <uri>model://t_pipe/meshes/t_pipe_1.stl</uri>
+              <uri>model://t_pipe_bara/meshes/t_pipe_1.stl</uri>
             </mesh>
           </geometry>
         </visual>
@@ -3669,7 +3669,7 @@
         <collision name='collishin'>
           <geometry>
             <mesh>
-              <uri>model://t_pipe/meshes/t_pipe_1.stl</uri>
+              <uri>model://t_pipe_bara/meshes/t_pipe_1.stl</uri>
             </mesh>
           </geometry>
           <max_contacts>10</max_contacts>
@@ -3689,7 +3689,7 @@
         <visual name='visual'>
           <geometry>
             <mesh>
-              <uri>model://t_pipe/meshes/t_pipe_1.stl</uri>
+              <uri>model://t_pipe_bara/meshes/t_pipe_1.stl</uri>
             </mesh>
           </geometry>
         </visual>
@@ -3717,7 +3717,7 @@
         <collision name='collishin'>
           <geometry>
             <mesh>
-              <uri>model://t_pipe/meshes/t_pipe_1.stl</uri>
+              <uri>model://t_pipe_bara/meshes/t_pipe_1.stl</uri>
             </mesh>
           </geometry>
           <max_contacts>10</max_contacts>
@@ -3737,7 +3737,7 @@
         <visual name='visual'>
           <geometry>
             <mesh>
-              <uri>model://t_pipe/meshes/t_pipe_1.stl</uri>
+              <uri>model://t_pipe_bara/meshes/t_pipe_1.stl</uri>
             </mesh>
           </geometry>
         </visual>
@@ -3765,7 +3765,7 @@
         <collision name='collishin'>
           <geometry>
             <mesh>
-              <uri>model://t_pipe/meshes/t_pipe_1.stl</uri>
+              <uri>model://t_pipe_bara/meshes/t_pipe_1.stl</uri>
             </mesh>
           </geometry>
           <max_contacts>10</max_contacts>
@@ -3785,7 +3785,7 @@
         <visual name='visual'>
           <geometry>
             <mesh>
-              <uri>model://t_pipe/meshes/t_pipe_1.stl</uri>
+              <uri>model://t_pipe_bara/meshes/t_pipe_1.stl</uri>
             </mesh>
           </geometry>
         </visual>
@@ -3813,7 +3813,7 @@
         <collision name='collishin'>
           <geometry>
             <mesh>
-              <uri>model://t_pipe/meshes/t_pipe_1.stl</uri>
+              <uri>model://t_pipe_bara/meshes/t_pipe_1.stl</uri>
             </mesh>
           </geometry>
           <max_contacts>10</max_contacts>
@@ -3833,7 +3833,7 @@
         <visual name='visual'>
           <geometry>
             <mesh>
-              <uri>model://t_pipe/meshes/t_pipe_1.stl</uri>
+              <uri>model://t_pipe_bara/meshes/t_pipe_1.stl</uri>
             </mesh>
           </geometry>
         </visual>
@@ -3861,7 +3861,7 @@
         <collision name='collishin'>
           <geometry>
             <mesh>
-              <uri>model://t_pipe/meshes/t_pipe_1.stl</uri>
+              <uri>model://t_pipe_bara/meshes/t_pipe_1.stl</uri>
             </mesh>
           </geometry>
           <max_contacts>10</max_contacts>
@@ -3881,7 +3881,7 @@
         <visual name='visual'>
           <geometry>
             <mesh>
-              <uri>model://t_pipe/meshes/t_pipe_1.stl</uri>
+              <uri>model://t_pipe_bara/meshes/t_pipe_1.stl</uri>
             </mesh>
           </geometry>
         </visual>
@@ -3909,7 +3909,7 @@
         <collision name='collishin'>
           <geometry>
             <mesh>
-              <uri>model://t_pipe/meshes/t_pipe_1.stl</uri>
+              <uri>model://t_pipe_bara/meshes/t_pipe_1.stl</uri>
             </mesh>
           </geometry>
           <max_contacts>10</max_contacts>
@@ -3929,7 +3929,7 @@
         <visual name='visual'>
           <geometry>
             <mesh>
-              <uri>model://t_pipe/meshes/t_pipe_1.stl</uri>
+              <uri>model://t_pipe_bara/meshes/t_pipe_1.stl</uri>
             </mesh>
           </geometry>
         </visual>
@@ -3957,7 +3957,7 @@
         <collision name='collishin'>
           <geometry>
             <mesh>
-              <uri>model://t_pipe/meshes/t_pipe_1.stl</uri>
+              <uri>model://t_pipe_bara/meshes/t_pipe_1.stl</uri>
             </mesh>
           </geometry>
           <max_contacts>10</max_contacts>
@@ -3977,7 +3977,7 @@
         <visual name='visual'>
           <geometry>
             <mesh>
-              <uri>model://t_pipe/meshes/t_pipe_1.stl</uri>
+              <uri>model://t_pipe_bara/meshes/t_pipe_1.stl</uri>
             </mesh>
           </geometry>
         </visual>
@@ -4005,7 +4005,7 @@
         <collision name='collishin'>
           <geometry>
             <mesh>
-              <uri>model://t_pipe/meshes/t_pipe_1.stl</uri>
+              <uri>model://t_pipe_bara/meshes/t_pipe_1.stl</uri>
             </mesh>
           </geometry>
           <max_contacts>10</max_contacts>
@@ -4025,7 +4025,7 @@
         <visual name='visual'>
           <geometry>
             <mesh>
-              <uri>model://t_pipe/meshes/t_pipe_1.stl</uri>
+              <uri>model://t_pipe_bara/meshes/t_pipe_1.stl</uri>
             </mesh>
           </geometry>
         </visual>
@@ -4053,7 +4053,7 @@
         <collision name='collishin'>
           <geometry>
             <mesh>
-              <uri>model://t_pipe/meshes/t_pipe_1.stl</uri>
+              <uri>model://t_pipe_bara/meshes/t_pipe_1.stl</uri>
             </mesh>
           </geometry>
           <max_contacts>10</max_contacts>
@@ -4073,7 +4073,7 @@
         <visual name='visual'>
           <geometry>
             <mesh>
-              <uri>model://t_pipe/meshes/t_pipe_1.stl</uri>
+              <uri>model://t_pipe_bara/meshes/t_pipe_1.stl</uri>
             </mesh>
           </geometry>
         </visual>
@@ -4101,7 +4101,7 @@
         <collision name='collishin'>
           <geometry>
             <mesh>
-              <uri>model://t_pipe/meshes/t_pipe_1.stl</uri>
+              <uri>model://t_pipe_bara/meshes/t_pipe_1.stl</uri>
             </mesh>
           </geometry>
           <max_contacts>10</max_contacts>
@@ -4121,7 +4121,7 @@
         <visual name='visual'>
           <geometry>
             <mesh>
-              <uri>model://t_pipe/meshes/t_pipe_1.stl</uri>
+              <uri>model://t_pipe_bara/meshes/t_pipe_1.stl</uri>
             </mesh>
           </geometry>
         </visual>
@@ -4149,7 +4149,7 @@
         <collision name='collishin'>
           <geometry>
             <mesh>
-              <uri>model://t_pipe/meshes/t_pipe_1.stl</uri>
+              <uri>model://t_pipe_bara/meshes/t_pipe_1.stl</uri>
             </mesh>
           </geometry>
           <max_contacts>10</max_contacts>
@@ -4169,7 +4169,7 @@
         <visual name='visual'>
           <geometry>
             <mesh>
-              <uri>model://t_pipe/meshes/t_pipe_1.stl</uri>
+              <uri>model://t_pipe_bara/meshes/t_pipe_1.stl</uri>
             </mesh>
           </geometry>
         </visual>
@@ -4197,7 +4197,7 @@
         <collision name='collishin'>
           <geometry>
             <mesh>
-              <uri>model://t_pipe/meshes/t_pipe_1.stl</uri>
+              <uri>model://t_pipe_bara/meshes/t_pipe_1.stl</uri>
             </mesh>
           </geometry>
           <max_contacts>10</max_contacts>
@@ -4217,7 +4217,7 @@
         <visual name='visual'>
           <geometry>
             <mesh>
-              <uri>model://t_pipe/meshes/t_pipe_1.stl</uri>
+              <uri>model://t_pipe_bara/meshes/t_pipe_1.stl</uri>
             </mesh>
           </geometry>
         </visual>
@@ -4245,7 +4245,7 @@
         <collision name='collishin'>
           <geometry>
             <mesh>
-              <uri>model://t_pipe/meshes/t_pipe_1.stl</uri>
+              <uri>model://t_pipe_bara/meshes/t_pipe_1.stl</uri>
             </mesh>
           </geometry>
           <max_contacts>10</max_contacts>
@@ -4265,7 +4265,7 @@
         <visual name='visual'>
           <geometry>
             <mesh>
-              <uri>model://t_pipe/meshes/t_pipe_1.stl</uri>
+              <uri>model://t_pipe_bara/meshes/t_pipe_1.stl</uri>
             </mesh>
           </geometry>
         </visual>
@@ -4293,7 +4293,7 @@
         <collision name='collishin'>
           <geometry>
             <mesh>
-              <uri>model://t_pipe/meshes/t_pipe_1.stl</uri>
+              <uri>model://t_pipe_bara/meshes/t_pipe_1.stl</uri>
             </mesh>
           </geometry>
           <max_contacts>10</max_contacts>
@@ -4313,7 +4313,7 @@
         <visual name='visual'>
           <geometry>
             <mesh>
-              <uri>model://t_pipe/meshes/t_pipe_1.stl</uri>
+              <uri>model://t_pipe_bara/meshes/t_pipe_1.stl</uri>
             </mesh>
           </geometry>
         </visual>
@@ -4341,7 +4341,7 @@
         <collision name='collishin'>
           <geometry>
             <mesh>
-              <uri>model://t_pipe/meshes/t_pipe_1.stl</uri>
+              <uri>model://t_pipe_bara/meshes/t_pipe_1.stl</uri>
             </mesh>
           </geometry>
           <max_contacts>10</max_contacts>
@@ -4361,7 +4361,7 @@
         <visual name='visual'>
           <geometry>
             <mesh>
-              <uri>model://t_pipe/meshes/t_pipe_1.stl</uri>
+              <uri>model://t_pipe_bara/meshes/t_pipe_1.stl</uri>
             </mesh>
           </geometry>
         </visual>
@@ -4389,7 +4389,7 @@
         <collision name='collishin'>
           <geometry>
             <mesh>
-              <uri>model://t_pipe/meshes/t_pipe_1.stl</uri>
+              <uri>model://t_pipe_bara/meshes/t_pipe_1.stl</uri>
             </mesh>
           </geometry>
           <max_contacts>10</max_contacts>
@@ -4409,7 +4409,7 @@
         <visual name='visual'>
           <geometry>
             <mesh>
-              <uri>model://t_pipe/meshes/t_pipe_1.stl</uri>
+              <uri>model://t_pipe_bara/meshes/t_pipe_1.stl</uri>
             </mesh>
           </geometry>
         </visual>
@@ -4437,7 +4437,7 @@
         <collision name='collishin'>
           <geometry>
             <mesh>
-              <uri>model://t_pipe/meshes/t_pipe_1.stl</uri>
+              <uri>model://t_pipe_bara/meshes/t_pipe_1.stl</uri>
             </mesh>
           </geometry>
           <max_contacts>10</max_contacts>
@@ -4457,7 +4457,7 @@
         <visual name='visual'>
           <geometry>
             <mesh>
-              <uri>model://t_pipe/meshes/t_pipe_1.stl</uri>
+              <uri>model://t_pipe_bara/meshes/t_pipe_1.stl</uri>
             </mesh>
           </geometry>
         </visual>
@@ -4485,7 +4485,7 @@
         <collision name='collishin'>
           <geometry>
             <mesh>
-              <uri>model://t_pipe/meshes/t_pipe_1.stl</uri>
+              <uri>model://t_pipe_bara/meshes/t_pipe_1.stl</uri>
             </mesh>
           </geometry>
           <max_contacts>10</max_contacts>
@@ -4505,7 +4505,7 @@
         <visual name='visual'>
           <geometry>
             <mesh>
-              <uri>model://t_pipe/meshes/t_pipe_1.stl</uri>
+              <uri>model://t_pipe_bara/meshes/t_pipe_1.stl</uri>
             </mesh>
           </geometry>
         </visual>
@@ -4533,7 +4533,7 @@
         <collision name='collishin'>
           <geometry>
             <mesh>
-              <uri>model://t_pipe/meshes/t_pipe_1.stl</uri>
+              <uri>model://t_pipe_bara/meshes/t_pipe_1.stl</uri>
             </mesh>
           </geometry>
           <max_contacts>10</max_contacts>
@@ -4553,7 +4553,7 @@
         <visual name='visual'>
           <geometry>
             <mesh>
-              <uri>model://t_pipe/meshes/t_pipe_1.stl</uri>
+              <uri>model://t_pipe_bara/meshes/t_pipe_1.stl</uri>
             </mesh>
           </geometry>
         </visual>
@@ -4581,7 +4581,7 @@
         <collision name='collishin'>
           <geometry>
             <mesh>
-              <uri>model://t_pipe/meshes/t_pipe_1.stl</uri>
+              <uri>model://t_pipe_bara/meshes/t_pipe_1.stl</uri>
             </mesh>
           </geometry>
           <max_contacts>10</max_contacts>
@@ -4601,7 +4601,7 @@
         <visual name='visual'>
           <geometry>
             <mesh>
-              <uri>model://t_pipe/meshes/t_pipe_1.stl</uri>
+              <uri>model://t_pipe_bara/meshes/t_pipe_1.stl</uri>
             </mesh>
           </geometry>
         </visual>
@@ -4629,7 +4629,7 @@
         <collision name='collishin'>
           <geometry>
             <mesh>
-              <uri>model://t_pipe/meshes/t_pipe_1.stl</uri>
+              <uri>model://t_pipe_bara/meshes/t_pipe_1.stl</uri>
             </mesh>
           </geometry>
           <max_contacts>10</max_contacts>
@@ -4649,7 +4649,7 @@
         <visual name='visual'>
           <geometry>
             <mesh>
-              <uri>model://t_pipe/meshes/t_pipe_1.stl</uri>
+              <uri>model://t_pipe_bara/meshes/t_pipe_1.stl</uri>
             </mesh>
           </geometry>
         </visual>
@@ -4677,7 +4677,7 @@
         <collision name='collishin'>
           <geometry>
             <mesh>
-              <uri>model://t_pipe/meshes/t_pipe_1.stl</uri>
+              <uri>model://t_pipe_bara/meshes/t_pipe_1.stl</uri>
             </mesh>
           </geometry>
           <max_contacts>10</max_contacts>
@@ -4697,7 +4697,7 @@
         <visual name='visual'>
           <geometry>
             <mesh>
-              <uri>model://t_pipe/meshes/t_pipe_1.stl</uri>
+              <uri>model://t_pipe_bara/meshes/t_pipe_1.stl</uri>
             </mesh>
           </geometry>
         </visual>
@@ -4725,7 +4725,7 @@
         <collision name='collishin'>
           <geometry>
             <mesh>
-              <uri>model://t_pipe/meshes/t_pipe_1.stl</uri>
+              <uri>model://t_pipe_bara/meshes/t_pipe_1.stl</uri>
             </mesh>
           </geometry>
           <max_contacts>10</max_contacts>
@@ -4745,7 +4745,7 @@
         <visual name='visual'>
           <geometry>
             <mesh>
-              <uri>model://t_pipe/meshes/t_pipe_1.stl</uri>
+              <uri>model://t_pipe_bara/meshes/t_pipe_1.stl</uri>
             </mesh>
           </geometry>
         </visual>
@@ -4773,7 +4773,7 @@
         <collision name='collishin'>
           <geometry>
             <mesh>
-              <uri>model://t_pipe/meshes/t_pipe_1.stl</uri>
+              <uri>model://t_pipe_bara/meshes/t_pipe_1.stl</uri>
             </mesh>
           </geometry>
           <max_contacts>10</max_contacts>
@@ -4793,7 +4793,7 @@
         <visual name='visual'>
           <geometry>
             <mesh>
-              <uri>model://t_pipe/meshes/t_pipe_1.stl</uri>
+              <uri>model://t_pipe_bara/meshes/t_pipe_1.stl</uri>
             </mesh>
           </geometry>
         </visual>
@@ -4821,7 +4821,7 @@
         <collision name='collishin'>
           <geometry>
             <mesh>
-              <uri>model://t_pipe/meshes/t_pipe_1.stl</uri>
+              <uri>model://t_pipe_bara/meshes/t_pipe_1.stl</uri>
             </mesh>
           </geometry>
           <max_contacts>10</max_contacts>
@@ -4841,7 +4841,7 @@
         <visual name='visual'>
           <geometry>
             <mesh>
-              <uri>model://t_pipe/meshes/t_pipe_1.stl</uri>
+              <uri>model://t_pipe_bara/meshes/t_pipe_1.stl</uri>
             </mesh>
           </geometry>
         </visual>
@@ -4869,7 +4869,7 @@
         <collision name='collishin'>
           <geometry>
             <mesh>
-              <uri>model://t_pipe/meshes/t_pipe_1.stl</uri>
+              <uri>model://t_pipe_bara/meshes/t_pipe_1.stl</uri>
             </mesh>
           </geometry>
           <max_contacts>10</max_contacts>
@@ -4889,7 +4889,7 @@
         <visual name='visual'>
           <geometry>
             <mesh>
-              <uri>model://t_pipe/meshes/t_pipe_1.stl</uri>
+              <uri>model://t_pipe_bara/meshes/t_pipe_1.stl</uri>
             </mesh>
           </geometry>
         </visual>
@@ -4917,7 +4917,7 @@
         <collision name='collishin'>
           <geometry>
             <mesh>
-              <uri>model://t_pipe/meshes/t_pipe_1.stl</uri>
+              <uri>model://t_pipe_bara/meshes/t_pipe_1.stl</uri>
             </mesh>
           </geometry>
           <max_contacts>10</max_contacts>
@@ -4937,7 +4937,7 @@
         <visual name='visual'>
           <geometry>
             <mesh>
-              <uri>model://t_pipe/meshes/t_pipe_1.stl</uri>
+              <uri>model://t_pipe_bara/meshes/t_pipe_1.stl</uri>
             </mesh>
           </geometry>
         </visual>
@@ -4965,7 +4965,7 @@
         <collision name='collishin'>
           <geometry>
             <mesh>
-              <uri>model://t_pipe/meshes/t_pipe_1.stl</uri>
+              <uri>model://t_pipe_bara/meshes/t_pipe_1.stl</uri>
             </mesh>
           </geometry>
           <max_contacts>10</max_contacts>
@@ -4985,7 +4985,7 @@
         <visual name='visual'>
           <geometry>
             <mesh>
-              <uri>model://t_pipe/meshes/t_pipe_1.stl</uri>
+              <uri>model://t_pipe_bara/meshes/t_pipe_1.stl</uri>
             </mesh>
           </geometry>
         </visual>
@@ -5013,7 +5013,7 @@
         <collision name='collishin'>
           <geometry>
             <mesh>
-              <uri>model://t_pipe/meshes/t_pipe_1.stl</uri>
+              <uri>model://t_pipe_bara/meshes/t_pipe_1.stl</uri>
             </mesh>
           </geometry>
           <max_contacts>10</max_contacts>
@@ -5033,7 +5033,7 @@
         <visual name='visual'>
           <geometry>
             <mesh>
-              <uri>model://t_pipe/meshes/t_pipe_1.stl</uri>
+              <uri>model://t_pipe_bara/meshes/t_pipe_1.stl</uri>
             </mesh>
           </geometry>
         </visual>
