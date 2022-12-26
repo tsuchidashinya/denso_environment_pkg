@@ -14,7 +14,7 @@
             </inertial>
             <visual>
                 <geometry>
-                    <box size="2 2 0.006"/>
+                    <box size="2 2 0.01"/>
                 </geometry>
             </visual>
             <collision>
