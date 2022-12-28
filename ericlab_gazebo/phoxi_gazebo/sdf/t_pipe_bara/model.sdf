@@ -28,6 +28,12 @@
                         <uri>model://t_pipe_bara/meshes/t_pipe_1.stl</uri>
                     </mesh>
                 </geometry>
+                <material>
+                    <script>
+                      <uri>file://media/materials/scripts/gazebo.material</uri>
+                      <name>Gazebo/Grey</name>
+                    </script>
+                  </material>
             </visual>
         </link>
     </model>
