@@ -18,14 +18,14 @@
             <collision name="collishin">
                 <geometry>
                     <mesh>
-                        <uri>model://HV8/meshes/HV8_1.stl</uri>
+                        <uri>model://HV8_bara/meshes/HV8_1.stl</uri>
                     </mesh>
                 </geometry>
             </collision>
             <visual name="visual">
                 <geometry>
                     <mesh>
-                        <uri>model://HV8/meshes/HV8_1.stl</uri>
+                        <uri>model://HV8_bara/meshes/HV8_1.stl</uri>
                     </mesh>
                 </geometry>
             </visual>

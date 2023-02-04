@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<robot xmlns:xacro="http://www.ros.org/wiki/xacro" name="simple_box">
+    <xacro:macro name="box" params="suffix parent *origin">
+        <joint name="${suffix}_joint" type="fixed">
+            <parent link="${parent}"/>
+            <child link="${suffix}_link"/>
+            <xacro:insert_block name="origin"/>
+        </joint>
+        <link name="${suffix}_link">
+            <inertial>
+                <origin xyz="0.0 1.4 0.0" rpy="0.0 0.0 0.0"/>      
+                <mass value="0.001"/>
+                <inertia ixx="0.01" ixy="0.0" ixz="0.0" iyy="0.01" iyz="0.0" izz="0.01"/>
+            </inertial>
+            <visual>
+                <geometry>
+                    <box size="1.5 1.5 0.005"/>
+                </geometry>
+            </visual>
+            <collision>
+                <origin xyz="0.0 1.4 0.0" rpy="0.0 0.0 0.0"/> 
+                <geometry>
+                    <box size="0.01 0.01 0.02"/>
+                </geometry>
+            </collision>
+        </link>
+    </xacro:macro>
+</robot>
