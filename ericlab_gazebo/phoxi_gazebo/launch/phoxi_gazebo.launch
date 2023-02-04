@@ -20,8 +20,8 @@
     
     <node name="robot_state_publisher" pkg="robot_state_publisher" type="robot_state_publisher" respawn="false" output="screen" />
 
-    <node pkg="gazebo_model_package" type="gazebo_tf_publisher" name="gazebo_tf_publisher">
-        <rosparam file="$(find gazebo_model_package)/config/gazebo_tf_publisher.yaml" command="load" />
+    <node pkg="gazebo_model_pkg" type="gazebo_tf_publisher" name="gazebo_tf_publisher">
+        <rosparam file="$(find gazebo_model_pkg)/config/gazebo_tf_publisher.yaml" command="load" />
     </node>
     
 </launch>
