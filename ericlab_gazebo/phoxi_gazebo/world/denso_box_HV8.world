@@ -1,6 +1,6 @@
 <sdf version='1.7'>
   <world name='default'>
-  <plugin name="physics_plugin" filename="libgazebo_physics_plugin.so"/>
+  <plugin name="link_visual_plugin" filename="libgazebo_link_visual_plugin.so"/>
     <light name='sun' type='directional'>
       <cast_shadows>1</cast_shadows>
       <pose>0 0 10 0 -0 0</pose>
@@ -3071,7 +3071,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/DarkGrey</name>
             </script>
           </material>
         </visual>
@@ -3125,7 +3125,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/DarkGrey</name>
             </script>
           </material>
         </visual>
@@ -3179,7 +3179,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/DarkGrey</name>
             </script>
           </material>
         </visual>
@@ -3233,7 +3233,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/DarkGrey</name>
             </script>
           </material>
         </visual>
@@ -3287,7 +3287,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/DarkGrey</name>
             </script>
           </material>
         </visual>
@@ -3341,7 +3341,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/DarkGrey</name>
             </script>
           </material>
         </visual>
@@ -3683,7 +3683,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/DarkGrey</name>
             </script>
           </material>
         </visual>
@@ -3737,7 +3737,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/DarkGrey</name>
             </script>
           </material>
         </visual>
@@ -3791,7 +3791,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/DarkGrey</name>
             </script>
           </material>
         </visual>
@@ -3845,7 +3845,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/DarkGrey</name>
             </script>
           </material>
         </visual>
@@ -3899,7 +3899,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/DarkGrey</name>
             </script>
           </material>
         </visual>
@@ -3953,7 +3953,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/DarkGrey</name>
             </script>
           </material>
         </visual>
@@ -4007,7 +4007,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/DarkGrey</name>
             </script>
           </material>
         </visual>
@@ -4061,7 +4061,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/DarkGrey</name>
             </script>
           </material>
         </visual>
@@ -4115,7 +4115,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/DarkGrey</name>
             </script>
           </material>
         </visual>
@@ -4169,7 +4169,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/DarkGrey</name>
             </script>
           </material>
         </visual>
@@ -4223,7 +4223,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/DarkGrey</name>
             </script>
           </material>
         </visual>
@@ -4277,7 +4277,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/DarkGrey</name>
             </script>
           </material>
         </visual>
@@ -4331,7 +4331,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/DarkGrey</name>
             </script>
           </material>
         </visual>
@@ -4385,7 +4385,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/DarkGrey</name>
             </script>
           </material>
         </visual>
@@ -4439,7 +4439,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/DarkGrey</name>
             </script>
           </material>
         </visual>
@@ -4493,7 +4493,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/DarkGrey</name>
             </script>
           </material>
         </visual>
@@ -4547,7 +4547,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/DarkGrey</name>
             </script>
           </material>
         </visual>
@@ -4601,7 +4601,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/DarkGrey</name>
             </script>
           </material>
         </visual>
@@ -4655,7 +4655,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/DarkGrey</name>
             </script>
           </material>
         </visual>
@@ -4709,7 +4709,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/DarkGrey</name>
             </script>
           </material>
         </visual>
@@ -4763,7 +4763,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/DarkGrey</name>
             </script>
           </material>
         </visual>
@@ -4817,7 +4817,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/DarkGrey</name>
             </script>
           </material>
         </visual>
@@ -4871,7 +4871,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/DarkGrey</name>
             </script>
           </material>
         </visual>
@@ -4925,7 +4925,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/DarkGrey</name>
             </script>
           </material>
         </visual>
@@ -4979,7 +4979,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/DarkGrey</name>
             </script>
           </material>
         </visual>
@@ -5033,7 +5033,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/DarkGrey</name>
             </script>
           </material>
         </visual>
@@ -5087,7 +5087,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/DarkGrey</name>
             </script>
           </material>
         </visual>
@@ -5141,7 +5141,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/DarkGrey</name>
             </script>
           </material>
         </visual>
@@ -5195,7 +5195,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/DarkGrey</name>
             </script>
           </material>
         </visual>
@@ -5249,7 +5249,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/DarkGrey</name>
             </script>
           </material>
         </visual>
